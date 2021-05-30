@@ -1,0 +1,26 @@
+﻿<Window x:Class="Cashbox.Views.SupplyDescription"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cashbox.Views"
+        mc:Ignorable="d"
+        Title="SupplyDescription" Height="180" Width="350" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.3*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="supplyName" Height="auto" Margin="20 0" VerticalAlignment="Center">Supply name</TextBox>
+        <TextBox x:Name="supplyDescription" Grid.Row="1" Height="30" Margin="20 0">Description</TextBox>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Height="30" Width="100" FontSize="12" Click="SaveSupply_Click">Save supply</Button>
+            <Button Grid.Column="1" Height="30" Width="100" FontSize="12" IsCancel="True">Cancel</Button>
+        </Grid>
+    </Grid>
+</Window>

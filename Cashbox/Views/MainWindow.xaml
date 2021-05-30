@@ -1,0 +1,53 @@
+﻿<Window x:Class="Cashbox.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cashbox"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Cashbox" Height="550" Width="900" MinHeight="550" MinWidth="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.15*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*" MaxWidth="75px">
+            </ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.RowSpan="3" Background="#24282E">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.6*" MaxHeight="75px"></RowDefinition>
+                <RowDefinition Height="0.6*" MaxHeight="75px"></RowDefinition>
+                <RowDefinition Height="0.6*" MaxHeight="75px"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Grid.Resources>
+                <Style TargetType="Image">
+                    <Setter Property="Margin" Value="15"/>
+                </Style>
+                <Style TargetType="Button">
+
+                    <Setter Property="Background" Value="#24282E"/>
+                </Style>
+            </Grid.Resources>
+
+            <Button x:Name="OrdersSectionButton" Grid.Row="0" Background="#0078D7" Click="GoToOrdersSection">
+                <Image Source="/Assets/basket.png"/>
+            </Button>
+            <Button x:Name="ProductsSectionButton" Grid.Row="1" Background="#24282E" Click="GoToProductsSection">
+                <Image Source="/Assets/list.png"/>
+            </Button>
+            <Button x:Name="SuppliesSectionButton" Grid.Row="2" Background="#24282E" Click="GoToSuppliesSection">
+                <Image Source="/Assets/car.png"/>
+            </Button>
+            <Rectangle Grid.Row="3" Fill="#24282E"></Rectangle>
+        </Grid>
+        <Grid Grid.Column="1" Background="#5B777777">
+            <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"></Frame>
+        </Grid>
+    </Grid>
+</Window>

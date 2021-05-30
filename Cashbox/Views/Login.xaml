@@ -1,0 +1,20 @@
+﻿<Window x:Class="Cashbox.Views.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Cashbox.Views"
+        mc:Ignorable="d"
+        Title="Login" Height="175" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox materialDesign:HintAssist.Hint="Login" Width="100" x:Name="loginNick" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0"></TextBox>
+        <PasswordBox materialDesign:HintAssist.Hint="Password" Width="100" x:Name="loginPassword" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0"></PasswordBox>
+        <Button Grid.Row="2" Width="150" Click="CheckPassword_Click">Log in</Button>
+    </Grid>
+</Window>

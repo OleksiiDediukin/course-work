@@ -1,0 +1,114 @@
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.csprojAssemblyReference.cache
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\MainWindow.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\AddSupply.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\InventoryInfo.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\MainWindow.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductsSection.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SaveCheck.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SuppliesSection.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SupplyDescription.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SupplyInfo.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\App.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox_MarkupCompile.cache
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox_MarkupCompile.lref
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\Cashbox.exe.config
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\Cashbox.exe
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\Cashbox.pdb
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\EntityFramework.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\MaterialDesignColors.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\EntityFramework.xml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.xml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\InventoryName.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\Login.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\OrderProductQuantity.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\OrdersSection.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductEditing.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductsQuantitySelecting.g.cs
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\MainWindow.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\AddSupply.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\InventoryInfo.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\InventoryName.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\Login.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\MainWindow.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\OrderProductQuantity.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\OrdersSection.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductEditing.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductsQuantitySelecting.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\ProductsSection.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SaveCheck.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SuppliesSection.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SupplyDescription.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Views\SupplyInfo.baml
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.g.resources
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.Properties.Resources.resources
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.GenerateResource.cache
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.CoreCompileInputs.cache
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.CopyComplete
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.exe
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\Cashbox.pdb
+C:\Users\lolik\source\repos\Cashbox\Cashbox\obj\Debug\App.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.csprojAssemblyReference.cache
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\AddSupply.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\InventoryInfo.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\InventoryName.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\Login.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\MainWindow.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\OrderProductQuantity.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\OrdersSection.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductEditing.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductsQuantitySelecting.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductsSection.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SaveCheck.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SuppliesSection.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SupplyDescription.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SupplyInfo.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\App.g.cs
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox_MarkupCompile.cache
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox_MarkupCompile.lref
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.exe
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\Cashbox.exe.config
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\Cashbox.exe
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\Cashbox.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\EntityFramework.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\MaterialDesignColors.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\EntityFramework.xml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\bin\Debug\System.Data.SQLite.xml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\App.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\AddSupply.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\InventoryInfo.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\InventoryName.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\Login.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\MainWindow.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\OrderProductQuantity.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\OrdersSection.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductEditing.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductsQuantitySelecting.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\ProductsSection.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SaveCheck.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SuppliesSection.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SupplyDescription.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Views\SupplyInfo.baml
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.g.resources
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.Properties.Resources.resources
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.GenerateResource.cache
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.CoreCompileInputs.cache
+C:\Users\lolik\OneDrive\Рабочий стол\Рабочий стол\Cashbox\Cashbox\obj\Debug\Cashbox.csproj.CopyComplete
